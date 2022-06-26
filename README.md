@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bishakdey, I am a final year engineering student based in Bangalore, studying in Sapthagiri College of Engineering, VTU.
-- 👀 I’m interested in Android Development, Software development and computer vision.
+- 👀 I’m interested in Android Development, Software development and Web Development.
 - 🌱 I’m currently learning DSA, Android and Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - bishakdey@gmail.com
